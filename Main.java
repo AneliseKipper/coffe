@@ -16,9 +16,6 @@ public class Main {
             ArrayList<String> sales = new ArrayList<>();
             double totalPrice = 0;
 
-            //sistema de login
-            Scanner input = new Scanner(System.in);
-            System.out.println("------ ------ ------ ------ ------ ------ ");
             System.out.println("\tSeja bem-vindo ao Cafezito!");
             System.out.println("------ ------ ------ ------ ------ ------ ");
             System.out.print("\tInsira seu nome de usuário: ");
